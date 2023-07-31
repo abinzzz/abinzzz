@@ -4,7 +4,7 @@
 
 ### My Github Contribution
 
-![](https://raw.githubusercontent.com/abinzzz/abinzzz/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/abinzzz/abinzzz/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
