@@ -2,8 +2,7 @@
 
 ### My Github Contribution
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
-
+![](https://raw.githubusercontent.com/abinzzz/abinzzz/main/assets/github-contribution-grid-snake.svg)
 <!-- START_SECTION:blog -->
 
 <!-- END_SECTION:blog -->
