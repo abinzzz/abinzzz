@@ -7,6 +7,10 @@
 ![](https://raw.githubusercontent.com/abinzzz/abinzzz/main/assets/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+<img
+  src="https://github.com/abinzzz/abinzzz/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 <!--END_SECTION:waka-->
 
 
