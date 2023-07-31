@@ -6,4 +6,7 @@
 
 ![](https://raw.githubusercontent.com/abinzzz/abinzzz/main/assets/github-contribution-grid-snake.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
