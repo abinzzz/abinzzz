@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinzzz&count_private=true&show_icons=true&theme=tokyonight)
 
 
-### My Github Contribution
+## My Github Contribution
 ![](https://github.com/abinzzz/abinzzz/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
