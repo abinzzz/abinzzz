@@ -5,6 +5,7 @@
 - 💬&nbsp;&nbsp;扣扣邮箱，欢迎一起讨论学习：1589036128@qq.com
 - ⭐️&nbsp;&nbsp;热爱watching anime
 - ❤️ 做自己喜爱的事情
+- 📖 三岛由纪夫
 
 <br>
 
