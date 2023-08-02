@@ -14,6 +14,10 @@
 ## My Github Contribution
 ![](https://github.com/abinzzz/abinzzz/blob/output/github-contribution-grid-snake.svg)
 
+## 正在做的事情
+- [ ] 给blog增加一个看板娘
+- [ ] 将causal analysil代码看完
+- [ ] 再写一封申请信
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
