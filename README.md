@@ -6,6 +6,7 @@
 - ⭐️&nbsp;&nbsp;热爱watching anime
 - ❤️ 做自己喜爱的事情
 - 📖 三岛由纪夫
+- 🎵 デート2
 
 <br>
 
