@@ -20,7 +20,7 @@
 - [ ] 给blog增加一个看板娘
 - [ ] 将causal analysil代码看完
 - [ ] 再写一封申请信
-- [ ] 01/30
+- [ ] 02/30
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
