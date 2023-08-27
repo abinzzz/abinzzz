@@ -6,7 +6,7 @@
 - ⭐️&nbsp;&nbsp;热爱watching anime
 - ❤️ 做自己喜爱的事情
 - 📖 最近正在阅读：金阁寺-三岛由纪夫
-- 🎵 デート2
+- 🎵 Sacred Play Secret Place
 
 <br>
 
