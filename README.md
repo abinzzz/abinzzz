@@ -5,7 +5,7 @@
 - 💬&nbsp;&nbsp;扣扣邮箱，欢迎一起讨论学习：1589036128@qq.com
 - ⭐️&nbsp;&nbsp;热爱watching anime
 - ❤️ 做自己喜爱的事情
-- 📖 最近正在阅读：金阁寺-三岛由纪夫
+- 📖 最近看的漫画：再见绘梨
 - 🎵 喜欢的音乐：Sacred Play Secret Place
 
 <br>
