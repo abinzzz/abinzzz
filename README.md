@@ -6,7 +6,7 @@
 - ⭐️&nbsp;&nbsp;热爱watching anime
 - ❤️ 做自己喜爱的事情
 - 📖 最近看的漫画：再见绘梨
-- 🎵 喜欢的音乐：Sacred Play Secret Place
+- 🎵 喜欢的音乐：迷宫
 
 <br>
 
