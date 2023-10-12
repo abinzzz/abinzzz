@@ -6,7 +6,7 @@
 - ⭐️&nbsp;&nbsp;热爱watching anime
 - ❤️ 做自己喜爱的事情
 - 📺 最近看的动漫：在盛夏等待
-- 🎵 喜欢的音乐：Duvet
+- 🎵 喜欢的音乐：I Love You in Any Way
 
 <br>
 
