@@ -1,12 +1,5 @@
 ## 念念不忘 必有回响  👋
 ### 👨‍🔧&nbsp;&nbsp;I'm Nonaka Haru
-- 🏢&nbsp;&nbsp;北京某不知名大学AI专业菜鸟
-- 🦍&nbsp;&nbsp;活在当下的程序猿
-- 💬&nbsp;&nbsp;欢迎一起讨论学习
-- ⭐️&nbsp;&nbsp;热爱watching anime
-- ❤️ 做自己喜爱的事情
-- 📺 最近看的动漫：在盛夏等待
-- 🎵 喜欢的音乐：I Love You in Any Way
 
 <br>
 
