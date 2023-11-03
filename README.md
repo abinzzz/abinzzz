@@ -10,7 +10,7 @@
 ![](https://github.com/abinzzz/abinzzz/blob/output/github-contribution-grid-snake.svg)
 
 ## 正在做的事情
-- [ ] OS：p2
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
