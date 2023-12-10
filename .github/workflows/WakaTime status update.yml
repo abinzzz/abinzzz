@@ -19,7 +19,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "True"
           SHOW_COMMIT: "True"
-          COMMIT_USERNAME: "Camelia"
+          COMMIT_USERNAME: "ab"
           SHOW_UPDATED_DATE: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
