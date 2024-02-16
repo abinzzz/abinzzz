@@ -39,10 +39,10 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -61,7 +61,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abinzzz/abinzzz/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 18:39:22 UTC
+ Last Updated on 16/02/2024 18:38:48 UTC
 <!--END_SECTION:waka-->
 
 
