@@ -39,10 +39,10 @@ Sunday                   126 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 9 mins        █████████████████████████   100.00 % 
+Markdown                 2 hrs 19 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,7 +62,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abinzzz/abinzzz/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2024 18:57:19 UTC
+ Last Updated on 10/10/2024 18:58:09 UTC
 <!--END_SECTION:waka-->
 
 
