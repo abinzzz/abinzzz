@@ -39,10 +39,10 @@ Sunday                   130 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -61,7 +61,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abinzzz/abinzzz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2025 18:57:01 UTC
+ Last Updated on 29/01/2025 18:56:23 UTC
 <!--END_SECTION:waka-->
 
 
